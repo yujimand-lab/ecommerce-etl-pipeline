@@ -155,15 +155,6 @@ This project demonstrates experience with:
 - Dashboard integration (Power BI/Tableau)
 - Email notification after pipeline execution
 
----
 
-## 👤 Author
-
-**Andi Siti Fatimah Alwi**
-
-💊 Pharmacist  
-📊 Aspiring Data Engineer & Bioinformatics Enthusiast
-
----
 
 ## ⭐ If you find this project useful, feel free to give it a star!
