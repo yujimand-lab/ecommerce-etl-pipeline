@@ -144,17 +144,6 @@ This project demonstrates experience with:
 - Logging & Monitoring
 - Data Engineering Workflow
 
----
-
-## 🔮 Future Improvements
-
-- Database integration (PostgreSQL/MySQL)
-- Cloud storage support (AWS S3)
-- Data quality testing
-- CI/CD deployment
-- Dashboard integration (Power BI/Tableau)
-- Email notification after pipeline execution
-
 
 
 ## ⭐ If you find this project useful, feel free to give it a star!
